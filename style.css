@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body
+  {
+  background-image: url("cbg.jpeg");
+  background-color:#30D5C8;
+}
+
+h1
+{
+color:Blue;
+font-size:20pt;
+}
+
+p
+{
+margin:50px;
+}
+
+a:link {color:#b446a3;text-decoration:none;}    /* unvisited link */
+a:visited {color:#4682B4;text-decoration:none;} /* visited link */
+a:hover {color:#FF6347;text-decoration:none;}   /* mouse over link */
+a:active {color:#4682B4;text-decoration:none;}  /* selected link */
